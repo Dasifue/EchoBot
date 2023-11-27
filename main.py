@@ -69,3 +69,6 @@ def reply_photo(message: types.Message):
 
 if __name__ == "__main__":
     bot.infinity_polling()
+
+
+print("Hello, world!")
